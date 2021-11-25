@@ -40,90 +40,90 @@ const app = {
             path:'./Asset/music/Closer - Inoue Joe.mp3',
             img:'./Asset/img/na (1).jpg'
         },
-        {
-            name:'Distance',
-            Singer: 'Long Shot Party',
-            path:'./Asset/music/Distance - Long Shot Party.mp3',
-            img:'./Asset/img/na (2).jpg'
-        },
-        {
-            name:'Diver',
-            Singer: 'Nico Touches the Walls',
-            path:'./Asset/music/Diver - Nico Touches the Walls.mp3',
-            img:'./Asset/img/na (3).jpg'
-        },
-        {
-            name:'Guren',
-            Singer: 'Does',
-            path:'./Asset/music/Guren - Does.mp3',
-            img:'./Asset/img/na (4).jpg'
-        },
-        {
-            name:'Hero_s Come Back',
-            Singer: 'Does',
-            path:'./Asset/music/Hero_s Come Back - Naruto.mp3',
-            img:'./Asset/img/na (6).jpg'
-        },
-        {
-            name:'Hotaru No Hikari',
-            Singer: 'Ikimono Gakari',
-            path:'./Asset/music/Hotaru No Hikari - Ikimono Gakari.mp3',
-            img:'./Asset/img/na (8).jpg'
-        },
-        {
-            name:'Kaze',
-            Singer: 'Yamazaru',
-            path:'./Asset/music/Kaze - Yamazaru.mp3',
-            img:'./Asset/img/na (9).jpg'
-        },
-        {
-            name:'Lovers',
-            Singer: '7!!',
-            path:'./Asset/music/Lovers - 7__.mp3',
-            img:'./Asset/img/na (10).jpg'
-        },
-        {
-            name:'Moshimo',
-            Singer: 'Daisuke',
-            path:'./Asset/music/Moshimo - Daisuke.mp3',
-            img:'./Asset/img/na (11).jpg'
-        },
-        {
-            name:'Newsong',
-            Singer: 'Tacica',
-            path:'./Asset/music/Newsong - Tacica.mp3',
-            img:'./Asset/img/na (12).jpg'
-        },
-        {
-            name:'Niwaka Ame ni mo Makezu ',
-            Singer: 'NICO Touches',
-            path:'./Asset/music/Niwaka Ame ni mo Makezu - NICO Touches t.mp3',
-            img:'./Asset/img/na (13).jpg'
-        },
-        {
-            name:'Sign',
-            Singer: 'Flow',
-            path:'./Asset/music/Sign - Flow.mp3',
-            img:'./Asset/img/na (14).jpg'
-        },
-        {
-            name:'Silhouette',
-            Singer: 'Kana Boon',
-            path:'./Asset/music/Silhouette - Kana Boon.mp3',
-            img:'./Asset/img/na (15).jpg'
-        },
-        {
-            name:'Totsugeki Rock',
-            Singer: 'The Cro-Magnons',
-            path:'./Asset/music/Totsugeki Rock - The Cro-Magnons.mp3',
-            img:'./Asset/img/na (8).jpg'
-        },
-        {
-            name:'Toumei Datta Sekai ',
-            Singer: 'Hata Motohiro',
-            path:'./Asset/music/Toumei Datta Sekai - Hata Motohiro.mp3',
-            img:'./Asset/img/na (9).jpg'
-        },
+        // {
+        //     name:'Distance',
+        //     Singer: 'Long Shot Party',
+        //     path:'./Asset/music/Distance - Long Shot Party.mp3',
+        //     img:'./Asset/img/na (2).jpg'
+        // },
+        // {
+        //     name:'Diver',
+        //     Singer: 'Nico Touches the Walls',
+        //     path:'./Asset/music/Diver - Nico Touches the Walls.mp3',
+        //     img:'./Asset/img/na (3).jpg'
+        // },
+        // {
+        //     name:'Guren',
+        //     Singer: 'Does',
+        //     path:'./Asset/music/Guren - Does.mp3',
+        //     img:'./Asset/img/na (4).jpg'
+        // },
+        // {
+        //     name:'Hero_s Come Back',
+        //     Singer: 'Does',
+        //     path:'./Asset/music/Hero_s Come Back - Naruto.mp3',
+        //     img:'./Asset/img/na (6).jpg'
+        // },
+        // {
+        //     name:'Hotaru No Hikari',
+        //     Singer: 'Ikimono Gakari',
+        //     path:'./Asset/music/Hotaru No Hikari - Ikimono Gakari.mp3',
+        //     img:'./Asset/img/na (8).jpg'
+        // },
+        // {
+        //     name:'Kaze',
+        //     Singer: 'Yamazaru',
+        //     path:'./Asset/music/Kaze - Yamazaru.mp3',
+        //     img:'./Asset/img/na (9).jpg'
+        // },
+        // {
+        //     name:'Lovers',
+        //     Singer: '7!!',
+        //     path:'./Asset/music/Lovers - 7__.mp3',
+        //     img:'./Asset/img/na (10).jpg'
+        // },
+        // {
+        //     name:'Moshimo',
+        //     Singer: 'Daisuke',
+        //     path:'./Asset/music/Moshimo - Daisuke.mp3',
+        //     img:'./Asset/img/na (11).jpg'
+        // },
+        // {
+        //     name:'Newsong',
+        //     Singer: 'Tacica',
+        //     path:'./Asset/music/Newsong - Tacica.mp3',
+        //     img:'./Asset/img/na (12).jpg'
+        // },
+        // {
+        //     name:'Niwaka Ame ni mo Makezu ',
+        //     Singer: 'NICO Touches',
+        //     path:'./Asset/music/Niwaka Ame ni mo Makezu - NICO Touches t.mp3',
+        //     img:'./Asset/img/na (13).jpg'
+        // },
+        // {
+        //     name:'Sign',
+        //     Singer: 'Flow',
+        //     path:'./Asset/music/Sign - Flow.mp3',
+        //     img:'./Asset/img/na (14).jpg'
+        // },
+        // {
+        //     name:'Silhouette',
+        //     Singer: 'Kana Boon',
+        //     path:'./Asset/music/Silhouette - Kana Boon.mp3',
+        //     img:'./Asset/img/na (15).jpg'
+        // },
+        // {
+        //     name:'Totsugeki Rock',
+        //     Singer: 'The Cro-Magnons',
+        //     path:'./Asset/music/Totsugeki Rock - The Cro-Magnons.mp3',
+        //     img:'./Asset/img/na (8).jpg'
+        // },
+        // {
+        //     name:'Toumei Datta Sekai ',
+        //     Singer: 'Hata Motohiro',
+        //     path:'./Asset/music/Toumei Datta Sekai - Hata Motohiro.mp3',
+        //     img:'./Asset/img/na (9).jpg'
+        // },
         
     ],
     setConfig: function(key, value){
