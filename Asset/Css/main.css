@@ -230,4 +230,21 @@ background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+
     color: #999;
     font-size: 18px;
   }
-  
+  @media  (max-width: 413px) {
+    .playlist {
+      margin-top: 480px;
+      padding: 0;
+    }
+    .logo img{
+      object-fit: cover;
+      object-position: center;
+      width: 60px;
+      height: 60px;
+    }
+    .logo h2{
+      text-align: right;
+    }
+    .dashboard{
+      border-radius:0;
+    }
+  }
